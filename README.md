@@ -22,3 +22,20 @@
 <a href="https://www.instagram.com/johannnix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JohanWinarto" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/JohanWinarto/" target="blank"><img align="center" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" alt="JohanWinarto" height="30" width="30" /></a>
 </p>
+
+<h3 align="left">Github stats:</h3>
+<p align="center">
+  <a href="https://github.com/johannnix">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannnix&layout=compact&hide_border=true&card_width=368"
+    />
+  </a>
+  <a href="https://github.com/johannnix">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=johannnix&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&include_all_commits=true"
+    />
+  </a>
+</p>
