@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johannnix&label=Profile%20views&color=0e75b6&style=flat" alt="JohanWinarto" /> </p>
 
-- 🔭 I’m currently school on **SMK Negeri 1 Pasuruan**
+- 🔭 I’m currently study on **SMK Negeri 1 Pasuruan**
 
 - 🌱 I’m currently learning **Kotlin**
 
